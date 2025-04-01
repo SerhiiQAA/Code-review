@@ -9,7 +9,7 @@ This repository contains a detailed code review for the `Cypress-e2e-Allure Auto
 - Provide actionable recommendations for improvement.
 
 ## Contents
-- PDF Report: `code_review_report.pdf` located in the root directory.
+- PDF Report: `Task 5_ Code review.pdf` located in the root directory.
 - Suggestions for project optimization and fixes.
 - Review of Cypress tests and Allure integration.
 
@@ -27,12 +27,3 @@ git clone https://github.com/SerhiiQAA/Code-review
 
 ## Notes
 This review is designed for educational purposes, with intentional errors highlighted for improvement.
-
----
-
-Додайте цей файл у кореневу папку вашого репозиторію і виконайте наступні команди, щоб закомітити і залити його в GitHub:
-
-```bash
-git add README.md
-git commit -m "Add README file for code review task"
-git push origin main
